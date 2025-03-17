@@ -10,6 +10,6 @@ Project on stock price prediction using Long Short-Term Memory(LSTM) networks.
 **Adj Close** - The price of the stock after paying off the dividends.</br>
 **Volume** - How many shares were traded.</br>
 
-![stock]()
+![stock](output.png)
 
   **Actual Price vs Predicted Price of the stock**
